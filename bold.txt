@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 VikGit
+=======
+VikGitHub
+>>>>>>> b5f570676eae2aec779772be777d18900087ca22
